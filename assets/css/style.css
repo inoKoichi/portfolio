@@ -311,6 +311,14 @@ body {
     transform: rotate(45deg);
 }
 
+.rotate-90 {
+    -moz-transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
 .icon-large {
     font-size: 40px;
 }
